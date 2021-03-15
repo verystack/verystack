@@ -9,6 +9,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+Make sure to check out my many OSS projects + NPM packages on the [Audal Labs Github Org](https://github.com/audal).
+
 ##### Currently
 
 - 🌐 Saving devs time and businesses money with [Appsby](https://github.com/audal/appsby)
