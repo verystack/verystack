@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-#### I'm a Technical Lead working in Australia, focused on server-less and JAMStack development.
+#### I'm focused on server-less and JAMStack development.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -14,7 +14,6 @@ Make sure to check out my many OSS projects + NPM packages on the [Audal Labs Gi
 ##### Currently
 
 - 🌐 Saving devs time and businesses money with [Appsby](https://github.com/audal/appsby)
-- 💅 Building a Gatsby-focused Wordpress Builder
 - 🎙 Always tinkering with server-less media processing
 - 🏢 Currently running **Audal Labs**
 
